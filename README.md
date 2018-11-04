@@ -4,10 +4,14 @@ These notes are not intended to be comprehensive. They include notes about metho
 
 # Table of content
 
+* [Variant calling pipelines](#variant-calling-pipelines)
 * [Depth](#depth)
 * [InDels](#indels)
 * [CNV](#cnv)
 
+## Variant calling pipelines
+
+- TOPMed Variant Calling Pipeline, https://github.com/statgen/topmed_variant_calling
 
 ## Depth
 
