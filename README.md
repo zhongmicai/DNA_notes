@@ -8,6 +8,8 @@ These notes are not intended to be comprehensive. They include notes about metho
 * [Depth](#depth)
 * [InDels](#indels)
 * [CNV](#cnv)
+* [Functional impact](#functional-impact)
+* [Misc](#misc)
 
 ## Variant calling pipelines
 
@@ -43,3 +45,15 @@ These notes are not intended to be comprehensive. They include notes about metho
 - `QDNASeq` - Quantitative DNA sequencing for chromosomal aberrations. https://bioconductor.org/packages/release/bioc/html/QDNAseq.html
 
 - `SynthEx` - CNV detection from exome and whole genome sequencing.
+
+
+## Functional impact
+
+- `atSNP` - search for effects of SNPs on transcription factor binding. DB of 37 billion variant-motif pairs. Search by SNP IDs, window of SNPs, genomic location, gene, transcription factor. http://atsnp.biostat.wisc.edu/
+    - Shin, Sunyoung, Rebecca Hudson, Christopher Harrison, Mark Craven, and Sündüz Keleş. “AtSNP Search: A Web Resource for Statistically Evaluating Influence of Human Genetic Variation on Transcription Factor Binding.” Edited by John Hancock. Bioinformatics, December 8, 2018. https://doi.org/10.1093/bioinformatics/bty1010.
+
+
+## Misc
+
+- `SNPhylo` - A pipeline to generate a phylogenetic tree from huge SNP data, https://github.com/thlee/SNPhylo, http://chibba.pgml.uga.edu/snphylo/
+
