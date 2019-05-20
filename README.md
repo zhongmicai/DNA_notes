@@ -47,6 +47,8 @@ These notes are not intended to be comprehensive. They include notes about metho
 - `CNVkit` - capturing CNVs in on-target and off-target genomic regions. Existing tools (CNVer, ExomeCNV, exomeCopy, CONTRA, CoNIFER, ExomeDepth, VarScan2, XHMM, ngCGH, EXCAVATOR, CANOES, PatternCNV, CODEX, Control-FREEC, cn.MOPS, cnvOffSeq, CopyWriteR). Account for GC content, mappability. Python 2.7 implementation. https://github.com/etal/cnvkit, https://github.com/etal/cnvkit-examples
     - Talevich, Eric, A. Hunter Shain, Thomas Botton, and Boris C. Bastian. “CNVkit: Genome-Wide Copy Number Detection and Visualization from Targeted DNA Sequencing.” PLOS Computational Biology 12, no. 4 (April 21, 2016): e1004873. https://doi.org/10.1371/journal.pcbi.1004873.
 
+- `CNVnator` - a tool for CNV discovery and genotyping from depth-of-coverage by mapped reads. https://github.com/abyzovlab/CNVnator
+
 - `HATCHet` (Holistic Allele-specific Tumor Copy-number Heterogeneity) is an algorithm that infers allele and clone-specific CNAs and WGDs jointly across multiple tumor samples from the same patient, and that leverages the relationships between clones in these samples. https://github.com/raphael-group/hatchet
     - Zaccaria, Simone, and Benjamin J. Raphael. “Accurate Quantification of Copy-Number Aberrations and Whole-Genome Duplications in Multi-Sample Tumor Sequencing Data.” BioRxiv, January 1, 2018, 496174. https://doi.org/10.1101/496174.
 
