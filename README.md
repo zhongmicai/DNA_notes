@@ -69,6 +69,8 @@ These notes are not intended to be comprehensive. They include notes about metho
 
 ## Misc
 
+- Awesome papers and projects about CNV and SV using NGS data. https://github.com/geocarvalho/sv-cnv-studies
+
 - DNA sequencing analysis notes from Ming Tang. https://github.com/crazyhottommy/DNA-seq-analysis
 
 - `SNPhylo` - A pipeline to generate a phylogenetic tree from huge SNP data, https://github.com/thlee/SNPhylo, http://chibba.pgml.uga.edu/snphylo/
