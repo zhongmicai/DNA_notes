@@ -38,6 +38,8 @@ These notes are not intended to be comprehensive. They include notes about metho
 
 - `Breakfast` - a software for detecting genomic structural variants from DNA sequencing data, https://github.com/annalam/breakfast
 
+- `SVAFotate` - Annotate a (lumpy) structual variant (SV) VCF with allele frequencies (AFs) from large population SV cohorts. https://github.com/fakedrtom/SVAFotate
+
 
 ## CNV, SV
 
