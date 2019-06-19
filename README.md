@@ -58,6 +58,8 @@ These notes are not intended to be comprehensive. They include notes about metho
 
 - `QDNASeq` - Quantitative DNA sequencing for chromosomal aberrations. https://bioconductor.org/packages/release/bioc/html/QDNAseq.html
 
+- `samplot` - Plot structural variant signals from many BAMs and CRAMs. https://github.com/ryanlayer/samplot
+
 - `smoove` - structural variant calling and genotyping with existing tools, but, smoothly. https://github.com/brentp/smoove
 
 - `SynthEx` - CNV detection from exome and whole genome sequencing.
