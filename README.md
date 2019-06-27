@@ -24,7 +24,7 @@ These notes are not intended to be comprehensive. They include notes about metho
 - `mosdepth` - fast BAM/CRAM depth calculation for WGS, exome, or targetted sequencing., https://github.com/brentp/mosdepth
 - `indexcov` - fast genome coverage, aberrant coverage detection, infer sex. Visualization. https://github.com/brentp/goleft
 - `bamCoverage` - BAM to bigWig conversion, https://deeptools.readthedocs.io/en/latest/content/tools/bamCoverage.html
-
+- `histoneSig` - R package for working with genome files as continuous representations or "signals". https://github.com/semibah/histonesig
 
 ## InDels
 
