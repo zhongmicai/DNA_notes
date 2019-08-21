@@ -90,3 +90,5 @@ These notes are not intended to be comprehensive. They include notes about metho
     - Derrien, Thomas, Jordi Estellé, Santiago Marco Sola, David G. Knowles, Emanuele Raineri, Roderic Guigó, and Paolo Ribeca. “Fast Computation and Applications of Genome Mappability.” PloS One 7, no. 1 (2012): e30377. https://doi.org/10.1371/journal.pone.0030377.
 
 - `refGenie` - reference genome manager. http://refgenie.databio.org/en/latest/
+
+- `GeneticsDesign` - GWAS power analysis, functions for designing genetics studies, https://www.bioconductor.org/packages/release/bioc/html/GeneticsDesign.html
