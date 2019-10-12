@@ -30,6 +30,8 @@ These notes are not intended to be comprehensive. They include notes about metho
 
 ## InDels
 
+- Kosugi, Shunichi, Yukihide Momozawa, Xiaoxi Liu, Chikashi Terao, Michiaki Kubo, and Yoichiro Kamatani. “Comprehensive Evaluation of Structural Variation Detection Algorithms for Whole Genome Sequencing.” Genome Biology 20, no. 1 (December 2019): 117. https://doi.org/10.1186/s13059-019-1720-5. - Benchmarking of structural variant detection tools. Introduction to types of structural variants. No tool detects all. Table 1 prioritizes best tools for deletion, duplication, insertion, invertion detection.
+
 - `Pindel` - breakpoints of large deletions, medium sized insertions, inversions, tandem duplications and other structural variants. http://gmt.genome.wustl.edu/packages/pindel/
 
 - `Dindel` - Accurate indel calls from short-read data. http://www.sanger.ac.uk/science/tools/dindel
