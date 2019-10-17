@@ -94,4 +94,6 @@ These notes are not intended to be comprehensive. They include notes about metho
 
 - `refGenie` - reference genome manager. http://refgenie.databio.org/en/latest/
 
+- `genomepy` - Download genomes the easy way. https://github.com/simonvh/genomepy
+
 - `GeneticsDesign` - GWAS power analysis, functions for designing genetics studies, https://www.bioconductor.org/packages/release/bioc/html/GeneticsDesign.html
